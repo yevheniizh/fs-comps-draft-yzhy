@@ -1,3 +1,1 @@
-import WWComponent from './WWComponent/WWComponent.js'
-
-export { WWComponent };
+export { WWComponent } from './WWComponent/WWComponent.js';

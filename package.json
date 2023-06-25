@@ -1,10 +1,10 @@
 {
   "name": "fs-comps-draft-yzhy",
-  "version": "0.1.2",
-  "description": "",
+  "version": "0.1.13",
+  "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "files": [ "dist", "README.md" ],
+  "files": [ "dist" ],
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
