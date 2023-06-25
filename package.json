@@ -1,8 +1,11 @@
 {
-  "name": "fs-comps-draft",
-  "version": "1.0.9",
+  "name": "fs-comps-draft-yzhy",
+  "version": "0.1.2",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"

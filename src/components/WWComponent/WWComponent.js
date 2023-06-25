@@ -1,3 +1,4 @@
+import React from 'react';
 import classes from './WWComponent.module.css';
 
 const WWComponent = () => {
